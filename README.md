@@ -1,2 +1,3 @@
 # Hello-World
 My first repository.... Yay!
+I recently graduated with a certificate in web development from SPC. I am currently working on my resume and redoing my website (since a web developer probably shouldn't have a wordpress site). I am working hard toward changing careers. I work full time in the printing industry, but as of late, it has become a bit of a dead-end job. I am taking many of the skills that I already have as a print designer with some technical know-how and making a slight shift in my career path into a profession with room to grow, web development. I'm pretty excited about this new venture. So here is one more important step in my process.... GitHub.
